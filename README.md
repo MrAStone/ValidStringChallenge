@@ -11,4 +11,5 @@ ROAST
 BLANCH	
 PRESSURECOOK	
 
+You must use subroutines for each check!
 
